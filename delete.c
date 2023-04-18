@@ -27,7 +27,6 @@ int main()
         
         for( c = 0 ; c < n - 1 ; c++ )        
         printf("%d\n", array[c]);        
-    }    printf("ansh jamwal roll 76 g5\n");
+    }
     return 0;
-
 }
